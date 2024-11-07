@@ -1,0 +1,6 @@
+flask==2.0.1
+joblib==1.1.0
+pyngrok==5.1.0
+scikit-learn==0.24.2
+numpy==1.21.2
+ipython==7.31.1
